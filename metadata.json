@@ -1,0 +1,5 @@
+{
+  "name": "CHW Team Builder Simulation",
+  "description": "A simulation game to build and analyze the efficiency of AI-augmented Community Health Worker (CHW) teams. Recruit characters of different rarities, manage costs, and optimize your team's synergy and effectiveness for public health missions.",
+  "requestFramePermissions": []
+}
